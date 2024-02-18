@@ -2,4 +2,4 @@ Aula de Git
 
 Feito algumas alteracoes
 
-Feito alteracoe sapos o git clone
+Feito alteracoe apos o git clone
